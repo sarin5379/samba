@@ -3,3 +3,4 @@
  ajil     40          54
  manu     67         106
  nimal    87          98
+ shabu     87         95
